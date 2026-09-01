@@ -19,29 +19,32 @@ The dashboard answers questions such as:
 -  Which sales channels contribute the most revenue?
 -  Which products are the top revenue generators?
 
-## 🧩 Analytical Approach
-
+### 🧩 Analytical Approach
 The project follows a structured analytics workflow:
 
-Raw Sales Data → Data Review → Quality Checks → PivotTables → KPIs & Charts → Interactive Dashboard → Business Insights
+### Raw Sales Data → Data Review → Quality Checks → PivotTables → KPIs & Charts → Interactive Dashboard → Business Insights
 
+```sql
 The analysis includes:
-
-    Reviewing the structure and quality of the sales data.
-    Checking for missing, duplicate, inconsistent, or invalid records.
-    Creating PivotTables to summarize sales performance.
-    Developing KPI metrics for management reporting.
-    Building PivotCharts to visualize key trends and comparisons.
-    Adding Slicers and a Timeline for interactive analysis.
+-    Reviewing the structure and quality of the sales data.
+-    Checking for missing, duplicate, inconsistent, or invalid records.
+-    Creating PivotTables to summarize sales performance.
+-    Developing KPI metrics for management reporting.
+-    Building PivotCharts to visualize key trends and comparisons.
+-    Adding Slicers and a Timeline for interactive analysis.
+```
 
 Each dashboard component is designed to answer a specific business question and provide actionable information.
-📈 Dashboard Features
-Key Performance Indicators
 
-    Total Revenue
-    Total Orders
-    Total Quantity Sold
-    Average Order Value (AOV)
+### 📈 Dashboard Features
+
+### Key Performance Indicators
+```sql
+-    Total Revenue
+-    Total Orders
+-    Total Quantity Sold
+-    Average Order Value (AOV)
+```
 
 Sales Analysis
 
