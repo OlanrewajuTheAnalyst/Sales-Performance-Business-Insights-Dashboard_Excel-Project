@@ -3,10 +3,10 @@
 ![Company Dummy Logo](https://github.com/OlanrewajuTheAnalyst/Sales-Performance-Business-Insights-Dashboard_Excel-Project/blob/main/images.png)
 
 ## Objective
+ -- The objective of this project is to transform raw, order-level sales data into an interactive Excel dashboard that provides clear 
+    and actionable insights into business performance.
 
-### The objective of this project is to transform raw, order-level sales data into an interactive Excel dashboard that provides clear and actionable insights into business performance.
-
-The dashboard is designed to help managers and decision-makers:
+### The dashboard is designed to help managers and decision-makers:
 
 Monitor total revenue, orders, and quantity sold.
 Evaluate Average Order Value (AOV).
