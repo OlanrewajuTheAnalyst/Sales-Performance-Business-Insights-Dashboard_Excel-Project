@@ -46,7 +46,7 @@ Each dashboard component is designed to answer a specific business question and 
 -    Average Order Value (AOV)
 ```
 
-Sales Analysis
+### Sales Analysis
 
     Monthly Revenue Trend
     Revenue by Region
@@ -54,53 +54,43 @@ Sales Analysis
     Revenue by Sales Channel
     Top 5 Products by Revenue
 
-Interactive Features
+### Interactive Features
 
     Slicers for dynamic filtering.
     Timeline for date-based analysis.
     PivotCharts for visual exploration.
     Supporting PivotTables for the underlying analysis.
 
-🗂️ Workbook Structure
-Sheet	Purpose
-Start_Here	Project introduction and workbook navigation
-Dashboard_Plan	Business requirements, data fields, quality checks, and dashboard planning
-Sales_Data	Raw order-level sales data
-Supporting_Pivots	PivotTables supporting the dashboard analysis
-Sales_Dashboard	Final interactive sales performance dashboard
-💼 Business Value
 
-The dashboard gives management a consolidated view of sales performance, making it easier to:
+### The dashboard gives management a consolidated view of sales performance, making it easier to:
 
-    Monitor overall sales performance.
-    Identify revenue trends and changes over time.
-    Compare regional and category performance.
-    Evaluate sales channel contribution.
-    Identify high-performing products.
-    Explore specific segments using interactive filters.
+-    Monitor overall sales performance.
+-    Identify revenue trends and changes over time.
+-    Compare regional and category performance.
+-    Evaluate sales channel contribution.
+-    Identify high-performing products.
+-    Explore specific segments using interactive filters.
 
 Instead of manually reviewing individual transactions, users can quickly move from high-level KPIs to detailed performance analysis.
 🛠️ Skills Demonstrated
+-    Microsoft Excel
+-    Data Cleaning & Quality Checks
+-    PivotTables
+-    PivotCharts
+-    KPI Development
+-    Dashboard Design
+-    Slicers & Timelines
+-    Sales Trend Analysis
+-    Business Performance Analysis
+-    Data Visualization
+-    Management Reporting
 
-    Microsoft Excel
-    Data Cleaning & Quality Checks
-    PivotTables
-    PivotCharts
-    KPI Development
-    Dashboard Design
-    Slicers & Timelines
-    Sales Trend Analysis
-    Business Performance Analysis
-    Data Visualization
-    Management Reporting
-
-⚠️ Project Scope
-
+### Project Scope
 This project is primarily designed as a practical learning and portfolio project.
 
 A production reporting solution would typically require additional data validation, stakeholder requirements gathering, KPI definition, calculation validation, usability testing, and ongoing reporting governance.
-🎯 Final Outcome
 
+### Final Outcome
 The project demonstrates an end-to-end Excel analytics workflow that transforms transactional sales data into an interactive, management-focused business intelligence dashboard.
 
 From raw sales data to actionable business insights — using Excel.
