@@ -1,6 +1,8 @@
-# Sales Performance Business Insights Analysis and Dashboard EXCEL.
+# Sales Performance Business Insights Analysis and Dashboard Excel.
 
 ![Company Dummy Logo](https://github.com/OlanrewajuTheAnalyst/Sales-Performance-Business-Insights-Dashboard_Excel-Project/blob/main/images.png)
+## 📊 Project Overview
+About the Project
 
 ## Objective
 The objective of this project is to transform raw, order-level sales data into an interactive Excel dashboard that provides clear and actionable insights into business performance.
@@ -15,12 +17,7 @@ The objective of this project is to transform raw, order-level sales data into a
 -  Use PivotTables and PivotCharts as the supporting analytical layer behind the dashboard.
 -  Demonstrate how Excel can be used to convert raw business data into meaningful insights for real-world decision-making
 
-📊 Project Overview
-About the Project
-
-This project demonstrates how Microsoft Excel can be used to transform raw, order-level sales data into an interactive business dashboard. The workbook follows a practical sales-analysis scenario in which a manager needs a clear and efficient way to monitor business performance and identify important sales trends.
-
-The project uses PivotTables, PivotCharts, KPI cards, Slicers, and Timelines to organize, analyze, and visualize the sales data.
+### The project uses PivotTables, PivotCharts, KPI cards, Slicers, and Timelines to organize, analyze, and visualize the sales data.
 
 The dashboard provides a high-level view of sales performance while also allowing users to explore the data across different business dimensions such as time, region, product category, sales channel, and individual products.
 
