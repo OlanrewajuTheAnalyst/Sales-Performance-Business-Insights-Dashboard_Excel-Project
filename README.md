@@ -93,3 +93,5 @@ A production reporting solution would typically require additional data validati
 This work demonstrates an end-to-end Excel analytics workflow that transforms transactional sales data into an interactive, management-focused business intelligence dashboard.
 
 From raw sales data to actionable business insights — using Excel.
+
+![Company Dummy Logo](https://github.com/OlanrewajuTheAnalyst/Sales-Performance-Business-Insights-Dashboard_Excel-Project/blob/main/Dashboard%20PNG.png)
