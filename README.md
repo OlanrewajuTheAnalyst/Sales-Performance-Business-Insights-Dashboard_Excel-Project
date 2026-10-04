@@ -73,6 +73,8 @@ Each dashboard component is designed to answer a specific business question and 
 -    Identify high-performing products.
 -    Explore specific segments using interactive filters.
 
+![Company Dummy Logo](https://github.com/OlanrewajuTheAnalyst/Sales-Performance-Business-Insights-Dashboard_Excel-Project/blob/main/Dashboard%20PNG.png)
+
 Instead of manually reviewing individual transactions, users can quickly move from high-level KPIs to detailed performance analysis.
 🛠️ Skills Demonstrated
 -    Microsoft Excel
@@ -93,5 +95,3 @@ A production reporting solution would typically require additional data validati
 This work demonstrates an end-to-end Excel analytics workflow that transforms transactional sales data into an interactive, management-focused business intelligence dashboard.
 
 From raw sales data to actionable business insights — using Excel.
-
-![Company Dummy Logo](https://github.com/OlanrewajuTheAnalyst/Sales-Performance-Business-Insights-Dashboard_Excel-Project/blob/main/Dashboard%20PNG.png)
